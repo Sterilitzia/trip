@@ -1,0 +1,9 @@
+# Minimal runtime for the one-click Windows launcher.
+# Original requirements.txt remains available for the original environment.
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+python-dotenv>=1,<2
+openai>=1.50,<4
+pypinyin>=0.53,<1
+pillow>=10,<13
+tzdata

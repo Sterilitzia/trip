@@ -1,0 +1,55 @@
+[
+  {
+    "id": "pearl",
+    "title": "File:Far view of the Oriental Pearl TV Tower (36305049221).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Far_view_of_the_Oriental_Pearl_TV_Tower_(36305049221).jpg",
+    "author": "shankar s. from Dubai, united arab emirates",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "local": "/images/pearl.jpg"
+  },
+  {
+    "id": "fudan",
+    "title": "File:Fudan University Jiangwan Campus.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Fudan_University_Jiangwan_Campus.jpg",
+    "author": "Prcmise",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "local": "/images/fudan.jpg"
+  },
+  {
+    "id": "dumpling",
+    "title": "File:Xiaolongbao Shanghai.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Xiaolongbao_Shanghai.jpg",
+    "author": "Robigasp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "local": "/images/dumpling.jpg"
+  },
+  {
+    "id": "tea",
+    "title": "File:Pearl Milk Tea in Chun Shui Tang.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg",
+    "author": "Battlesnake1",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "local": "/images/tea.jpg"
+  },
+  {
+    "id": "coffee",
+    "title": "Coffee photo",
+    "url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "local": "/images/coffee.jpg"
+  },
+  {
+    "id": "bund",
+    "title": "File:Blue hour view of the Bund from the Shanghai World Financial Center dllu.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Blue_hour_view_of_the_Bund_from_the_Shanghai_World_Financial_Center_dllu.jpg",
+    "author": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "local": "/images/bund.jpg"
+  }
+]

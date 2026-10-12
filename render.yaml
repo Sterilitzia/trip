@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: china-travel-companion
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.11
+      - key: LLM_BASE_URL
+        value: https://open.bigmodel.cn/api/paas/v4/
+      - key: LLM_MODEL
+        value: glm-4.5-flash
+      - key: MENU_OCR_MODELS
+        value: glm-4.5v:fast,glm-4.6v-flash:fast,glm-4.1v-thinking-flash
+      - key: MENU_TRANSLATE_MODEL
+        value: glm-4.5-air
+      - key: LLM_API_KEY
+        sync: false
+      - key: AMAP_KEY
+        sync: false
